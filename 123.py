@@ -1,0 +1,6 @@
+name = input('please fill your name: ')
+print('hi, ', name)
+name = input('please fill your height(cm):')
+print('Height:',name,'cm')
+name = input('please fill your weight(kg):')
+print('weight:',name,'kg')
